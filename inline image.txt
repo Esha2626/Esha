@@ -4,7 +4,7 @@
 <html>
 <body>
 
-<h2>HAPPY </h2>
+<h2>HBD</h2>
 <img src="_image path" width="500" height="333">
 </br>https://www.pooja.com/
 </body>
