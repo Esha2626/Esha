@@ -6,7 +6,7 @@
         <div class="col-md-4">
           <!-- Logo. -->
           <div class="logo">
-           <a href="index.php"> <h2 class = "logo-text" style="font-family:American Typewriter, serif"><span class="bold">Alton's Management system</span></h2></a>	
+           <a href="index.php"> <h2 class = "logo-text" style="font-family:American Typewriter, serif"><span class="bold"> online Alton's Management system</span></h2></a>	
            
           </div>
           <!-- Logo ends -->
